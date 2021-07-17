@@ -1,0 +1,7 @@
+1. HTML divs for numbers and operators
+2. CSS create grid for the divs
+3. CSS colors
+4. JS functionality
+    - input clicking and typing???
+    - convert the input into numbers
+    - do the calculation
